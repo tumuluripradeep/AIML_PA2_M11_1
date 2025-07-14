@@ -1,6 +1,6 @@
 # AIML_PA2_M11_1
 
-Analysis Goal
+#Analysis Goal
 The analysis goal is to provide the list of data features that impacts the used car price the most using the 426k dataset containing various car attribute data.
 
 Used ML Techniques
@@ -38,12 +38,9 @@ Reviewed the list of features in the order of importance for the used car price.
 Re-visited data preparation to remove least important feature and re-ran the model and evaluted again.*
 Deployment - Report
 
-Final Report
+#Final Report
 Goal
 The goal is to provide the list of data features that impacts the used car price so this will be able to tell the used car dealership what drives the car prices or in another words, what the consumers want in a used car
 
-Findings
+#Findings
 Year and odometer are the primary significant features that impacted the used car price. Type and cylinders played secondary significant features.
-
-Recommendation
-The used car dealership should keep the inventory of better year, odometer and cylinders and more attractive types of cars so the car prices are higher and at the same time, those are significant features that consumers look at in the used car
